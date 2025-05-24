@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@layer utilities {
+  .bg-tech-black { background-color: #0f0f0f; }
+  .bg-cyber-gray { background-color: #1a1a1a; }
+  .text-gray-light { color: #C5C6C7; }
+  .text-neon-blue { color: #00FFFF; }
+  .text-electric-violet { color: #8A2BE2; }
+  .text-electric-deep-blue { color: #3AB0FF; }
+}
+
+
